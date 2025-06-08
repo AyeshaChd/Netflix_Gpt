@@ -1,7 +1,13 @@
-creat project using vite
-configured tailwind.css
-Header
-Login form
+-creat project using vite
+-configured tailwind.css
+-Header
+-Routing of app
+-Login form
+-Sign up form
+-useRef hook
+
+- firebase setup
+- deploying our app to production
 
 # Features
 
